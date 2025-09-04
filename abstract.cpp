@@ -13,5 +13,5 @@ public:
 };
 
 int main() {
-    Derived d;
+    Derived d1;
 }
